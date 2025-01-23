@@ -6,12 +6,19 @@ This repository contains the implementation of a machine learning project focuse
 Table of Contents:
 
 Introduction
+
 Dataset
+
 Data Preprocessing
+
 Machine Learning Models
+
 Evaluation
+
 Results
+
 Contributions
+
 License
 Introduction
 
