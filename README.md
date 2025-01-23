@@ -36,24 +36,37 @@ Data Preprocessing:
 The following steps were applied to preprocess the dataset:
 
 Data Cleaning: Handling missing values and removing duplicates.
+
 Feature Selection: Identifying the most relevant features for defect detection.
+
 Normalization/Scaling: Ensuring numerical features are scaled appropriately.
+
 Machine Learning Models
 
 Several machine learning models were implemented and compared:
+
 Logistic Regression
+
 Decision Trees
+
 Random Forests
+
 Gradient Boosting Machines 
+
 Neural Networks 
+
 Evaluation
 
 The models were evaluated using the following metrics:
 
 Accuracy: Proportion of correctly predicted instances.
+
 Precision: Ratio of true positive predictions to all positive predictions.
+
 Recall: Ability to identify all relevant instances.
+
 F1-Score: Harmonic mean of precision and recall.
+
 AUC-ROC: Area under the Receiver Operating Characteristic curve.
 
 Results:
